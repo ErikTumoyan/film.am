@@ -1,0 +1,29 @@
+.filmlink{
+    text-decoration: none;
+    color: black;
+}
+body{
+    background-color: rgb(133, 52, 52);
+}
+
+
+.main{
+width: 100%;
+
+  
+}
+
+.main2{
+      position: relative;
+    background-color: silver;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+  padding-top: 20px;
+flex-wrap: wrap;
+
+}
+
+.card{
+    margin: 10px;
+}
